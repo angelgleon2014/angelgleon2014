@@ -3,7 +3,7 @@
   
   # Hi 👋, I'm Ángel
   
-  ## A dedicated **Backend Developer** focused on **Python** and **FastAPI** from Chile 🇨🇱
+  ## A dedicated **Backend Developer** focused on **Python** and **FastAPI** from Venezuela ve
   *(Available for global remote work)*
 
   <p align="center">
