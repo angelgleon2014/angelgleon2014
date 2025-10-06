@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_DE_TU_IMAGEN_DE_PERFIL" alt="Ángel Gerardo León Álvarez" width="180" style="border-radius: 50%;">
+  
   
   # Hi 👋, I'm Ángel
   
