@@ -69,17 +69,19 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h4 align="center">⚙️ <a href="#">Android Low-Level ADB & Biometric Engine</a></h4>
+        <h4 align="center">⚡ <a href="https://github.com/angelgleon2014/whalinkbot-whatsapp-infrastructure">Whalinkbot (Messaging Infrastructure)</a></h4>
+        <p align="center"><em>Production Platform: <a href="https://whalinkbot.com">whalinkbot.com</a></em></p>
         <ul>
-          <li><b>OS-Level Reverse Engineering:</b> Dynamic UiAutomator hierarchy scraping and injection via raw ADB socket streams.</li>
-          <li><b>BiometricPrompt Bypass:</b> Automated authentication state transitions bypassing biometric barriers on physical devices.</li>
+          <li><b>High-Throughput Ingestion:</b> Next.js 15, Prisma ORM, and BullMQ + Redis background workers in Docker eliminating 504 timeouts.</li>
+          <li><b>Anti-Ban Account Warmer:</b> Autonomous chat simulation with randomized delays and dynamic presence states.</li>
+          <li><b>Group Scraper & Socket Resilience:</b> Obscured JID resolution (@lid) and double-strategy zombie session teardown.</li>
         </ul>
       </td>
       <td width="50%" valign="top">
-        <h4 align="center">📈 <a href="https://github.com/angelgleon2014/Trading-Bot">Algorithmic Financial & Data Pipelines</a></h4>
+        <h4 align="center">⚙️ <a href="#">Android Low-Level ADB & Algorithmic Pipelines</a></h4>
         <ul>
-          <li><b>Quantitative Analysis:</b> Mathematical signal processing, technical indicators, and automated risk management in Python.</li>
-          <li><b>High-Yield Scraping:</b> Resilient multi-threaded scraping pipelines with proxy rotation and anti-bot mitigation.</li>
+          <li><b>OS-Level Reverse Engineering:</b> Dynamic UiAutomator scraping and BiometricPrompt bypass on Android via raw ADB sockets.</li>
+          <li><b>Quantitative Financial Systems:</b> Mathematical signal processing, indicators, and resilient multi-threaded data scrapers.</li>
         </ul>
       </td>
     </tr>
